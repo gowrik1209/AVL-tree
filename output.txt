@@ -1,0 +1,5 @@
+Preorder traversal after insertions:
+30 20 10 25 40 50
+
+Preorder traversal after deleting 40:
+30 20 10 25 50

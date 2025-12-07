@@ -1,0 +1,17 @@
+# Test Cases for AVL Tree
+
+### Test Case 1: Sequential Insertion
+10, 20, 30, 40, 50, 25
+
+Expected Preorder:
+30 20 10 25 40 50
+
+### Test Case 2: Deleting 40
+Expected:
+30 20 10 25 50
+
+### Test Case 3: Reverse Insertion
+50, 40, 30, 20, 10
+
+### Test Case 4: Mixed Insertions
+15, 10, 20, 8, 12, 17, 25, 6
